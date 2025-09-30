@@ -49,7 +49,3 @@ It is inspired by Andrew Ng’s _Machine Learning Specialization (Course 3, Week
    - Ranks movies and returns the **Top-N recommendations**.
 
 ---
-
-## 📊 Example Output
-
-For **User 1**, the recommender might return:
