@@ -87,10 +87,3 @@ python -m src.cli evaluate --k 10
 The evaluation is a lightweight proxy: it checks whether the nearest neighbor retrieval behaves sensibly
 for self-similarity and some synthetic perturbations.
 
-## 🧠 CV description (copy/paste)
-
-**Movie Recommender System (Content-Based) | Python, TensorFlow/Keras**
-
-- Developed a content-based recommender that learns **neural movie embeddings** from metadata (genres + overview) using a **Siamese network**.
-- Built an end-to-end pipeline for preprocessing, training, exporting embeddings, and **Top‑K retrieval** via cosine similarity.
-- Implemented CLI tooling and evaluation scripts for reproducible experiments.
