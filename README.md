@@ -3,8 +3,6 @@
 A **content-based** movie recommendation system that learns **neural embeddings** from movie metadata
 (title + genres + overview) and returns **Top‑K similar movies** using **cosine similarity**.
 
-This repo is designed to be CV/GitHub friendly: clean structure, reproducible training, exportable embeddings,
-and a fast CLI for recommendations.
 
 ## ✨ What’s inside
 
